@@ -1,0 +1,26 @@
+
+
+body{ 
+
+background-color: cadetblue;
+
+}
+
+
+p{
+color: navy;
+font-size: large;
+line-height: 20px;
+}
+
+h1{
+    font-size: xx-large;
+    font-weight: lighter;
+    margin-bottom: 25px;
+}
+
+h1, p, footer,img , header{
+    display: block;
+    margin: 25px;
+     
+}
