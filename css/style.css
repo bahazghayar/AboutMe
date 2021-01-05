@@ -7,7 +7,7 @@ background-color: cadetblue;
 }
 
 
-p{
+p , h2 , ul , ol {
 color: navy;
 font-size: large;
 line-height: 20px;
@@ -19,8 +19,9 @@ h1{
     margin-bottom: 25px;
 }
 
-h1, p, footer,img , header{
+h1,h2, p, footer,img , header , ul, ol {
     display: block;
     margin: 25px;
      
 }
+
